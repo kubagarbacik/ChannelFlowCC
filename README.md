@@ -11,3 +11,5 @@ Mesh file was exported to .msh ASCII format, which is operable in OpenFOAM.
 Simulation was performed in steady-state, using multicore simpleFoam solver.
 
 EC2 instance was creted with 16 cores.
+
+To import mesh to OpenFOAM use fluentMeshToFoam command
