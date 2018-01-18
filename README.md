@@ -1,2 +1,11 @@
 # ChannelFlowCC
-Using AWS to compute a turbulent flow in s-shaped channel in OpenFOAM
+Using AWS EC2 to compute a turbulent flow in channel with periodic hills.
+
+The case was ispired by the following LES simulation:
+http://cfd.mace.manchester.ac.uk/cgi-bin/cfddb/prcase.cgi?81&LES&database/cases/case81/Case_data&database/cases/case81&cas81_head.html&cas81_desc.html&cas81_meth.html&cas81_data.html&cas81_refs.html&cas81_rsol.html
+
+Geometry was created in NX CAD software and exported to ANSYS Workbench to create mesh. 
+
+Mesh file was exported to .msh ASCII format, which is operable in OpenFOAM.
+
+
