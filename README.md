@@ -12,4 +12,6 @@ Simulation was performed in steady-state, using multicore simpleFoam solver.
 
 EC2 instance was creted with 16 cores.
 
-To import mesh to OpenFOAM use fluentMeshToFoam command
+To import mesh to OpenFOAM use fluentMeshToFoam command.
+
+Report: https://www.overleaf.com/read/mvcttqvfjsmp
